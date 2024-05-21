@@ -1,2 +1,4 @@
 scenario 1 : Book a train from chennai to bangalore 
 scenario 2 : cancel all train  tickets from pune to bangalore 
+scenario 5 : Reschedule the ticket 
+scenario 6 : Book a ticket to goa 
