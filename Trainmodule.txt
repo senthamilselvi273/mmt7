@@ -1,0 +1,2 @@
+scenario 1 : Book a train from chennai to bangalore 
+scenario 2 : cancel all train  tickets from pune to bangalore 
