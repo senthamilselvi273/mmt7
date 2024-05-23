@@ -7,3 +7,5 @@ scenario 4 : schedule time change
 scenario 5 : Reschedule the ticket 
 scenario 6 : Book a ticket to goa 
 >>>>>>> TrainMMt
+Scenario 7 : book a train ticket 
+Scenario 8 : rescedule the train timing
